@@ -5,5 +5,6 @@ For Update:
 https://help.github.com/articles/fork-a-repo
 
 ```bash
+$ git remote add upstream https://github.com/aporter/coursera-android
 $ git fetch upstream
 ```
